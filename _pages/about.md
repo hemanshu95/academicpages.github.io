@@ -16,7 +16,7 @@ During my internship last year, I got exposure to the field of cloud computing w
 I also had been working with a couple of startups during my other internships. 
 During one of these, I developed a real time scada monitoring system using microcontrollers(Raspberry Pi) and Amazon Web Services.   
 
-I also had been working in the field of Machine Learning in my 3rd  semester under Prof. K.K. Shukla,IIT(BHU) Varanasi on Picard - Nesterov Fixed Point Algorithm.
+I also had been working in the field of Machine Learning in my 3rd  semester under Prof. K.K. Shukla, IIT(BHU) Varanasi on Picard - Nesterov Fixed Point Algorithm.
 
 Apart from these academic and technical projects, I had been developing softwares for various hackathons, inter-college events or for pleasure of buildng something new and uploaded them on my [Github page](https://github.com/hemanshu95/).
 
